@@ -1,0 +1,102 @@
+﻿body {
+    width: 90%;
+    height: 100%;
+    min-height: 600px;
+    max-height: 2000px;
+    min-width: 600px;
+    max-width: 2000px;
+    background: #BA55D3;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+
+#corpo {
+    background: #FFFFFF;
+    float: left;
+    width: 39%;
+    height: 903px;
+    margin-left: -10px;
+    margin-top: -50px;
+}
+
+#form2 {
+    z-index: 1;
+    background: #FFFFFF;
+    text-align: center;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    width: 80%;
+    height: 50%;
+    margin-top: 33%;
+    margin-left: 8%;
+}
+
+#usuario {
+    border-style: none;
+    border-color: inherit;
+    border-width: 0;
+    font-family: "Roboto", sans-serif;
+    outline: 0;
+    background: #f2f2f2;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+    border-radius: 10px;
+    width: 80%;
+    height: 10%;
+    margin-top: 30%;
+}
+
+#senha {
+    border-style: none;
+    border-color: inherit;
+    border-width: 0;
+    font-family: "Roboto", sans-serif;
+    outline: 0;
+    background: #f2f2f2;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+    border-radius: 10px;
+    width: 80%;
+    height: 10%;
+    margin-top: 10%;
+}
+#senhacheck {
+    border-style: none;
+    border-color: inherit;
+    border-width: 0;
+    font-family: "Roboto", sans-serif;
+    outline: 0;
+    background: #f2f2f2;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+    border-radius: 10px;
+    width: 80%;
+    height: 10%;
+    margin-top: 10%;
+}
+#botaologin {
+    border-style: none;
+    border-color: inherit;
+    border-width: 0;
+    font-family: "Roboto", sans-serif;
+    text-transform: uppercase;
+    outline: 0;
+    background: #BA55D3;
+    padding: 15px;
+    color: white;
+    font-size: larger;
+    cursor: pointer;
+    border-radius: 10px;
+    margin-left: 0px;
+    width: 60%;
+    height: 10%;
+    margin-top: 10%;
+}
+
+#form2 button:hover, .form button:active, .form button:focus {
+    background: #43A047;
+}
+

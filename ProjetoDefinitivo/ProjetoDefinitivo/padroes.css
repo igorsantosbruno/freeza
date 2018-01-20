@@ -1,0 +1,50 @@
+﻿#imagem {
+max-width:250px; max-height:170px; width: auto; height: auto;
+}
+
+.mano1 {
+    position: absolute;
+    margin-top: -280px;
+    margin-left: 120px;
+}
+
+.mano2 {
+    position: absolute;
+    font-size: 18px;
+    margin-left: 0%;
+    margin-top: -280px;
+}
+
+#Button2 {
+    margin-top: 2%;
+}
+
+#logologin {
+    width: 50%;
+    margin-left: 168px;
+    margin-top: 5%;
+}
+
+#teste11 {
+    margin-left: 110px;
+}
+/* texto da tela de login abaixo*/
+h1 {
+    font-family: cursive;
+    color: #EE82EE;
+    margin-left: 57%;
+    margin-top: -6%;
+}
+
+#finny {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 0px;
+    margin-top:30%;
+}
+
+.titleee {
+    margin-left: 7%;
+    margin-top: 6%;
+}
